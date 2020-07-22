@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\myform.h(9): warning C4005: 'COL': macro redefinition
+  c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\worldcontroller.h(13): note: see previous definition of 'COL'
+c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\myform.h(10): warning C4005: 'ROW': macro redefinition
+  c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\worldcontroller.h(14): note: see previous definition of 'ROW'
+c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\myform.h(11): warning C4005: 'MOVESPEED': macro redefinition
+  c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\worldcontroller.h(15): note: see previous definition of 'MOVESPEED'
+c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\myform.h(12): warning C4005: 'TILEWIDTH': macro redefinition
+  c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\worldcontroller.h(16): note: see previous definition of 'TILEWIDTH'
+c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\myform.h(13): warning C4005: 'NPCNUM': macro redefinition
+  c:\users\goodc\desktop\roguelike-game-heatherjayne\rougelike\checkpoint\worldcontroller.h(17): note: see previous definition of 'NPCNUM'
+  TileViewport.cpp
+  WorldController.cpp
+  Generating Code...
+  Dungeon.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Checkpoint.vcxproj -> C:\Users\goodc\Desktop\roguelike-game-HeatherJayne\RougeLike\x64\Debug\Checkpoint.exe
